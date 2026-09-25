@@ -1,0 +1,19 @@
+document_id,application_id,property,drawing_page,drawing_type,status,floor_level,scale,has_room_labels,has_dimensions,has_doors,has_windows,has_stairs,has_annotations,contains_existing_and_proposed,ground_truth_status
+WBH_001,APP_001,144 Whitehall Road,1,elevation,proposed,all,1:50,0,1,1,1,0,1,0,not_started
+WBH_002,APP_001,144 Whitehall Road,2,elevation,existing,all,1:50,0,1,1,1,0,1,0,not_started
+WBH_003,APP_001,144 Whitehall Road,3,floor_plan,proposed,second,1:50,1,1,1,1,1,1,0,not_started
+WBH_004,APP_001,144 Whitehall Road,4,floor_plan,proposed,ground+first,1:50,1,1,1,1,1,1,0,not_started
+WBH_005,APP_001,144 Whitehall Road,5,floor_plan,existing,ground+first,1:50,1,1,1,1,1,1,0,not_started
+WBH_006,APP_002,23 Hillsborough Road,6,elevation,existing+proposed,ground+first,1:100,0,0,1,1,0,1,1,not_started
+WBH_007,APP_002,23 Hillsborough Road,7,elevation,existing+proposed,ground+first,1:100,0,0,1,1,0,1,1,not_started
+WBH_008,APP_002,23 Hillsborough Road,8,floor_plan,existing+proposed,first,1:100,1,1,1,1,1,1,1,not_started
+WBH_009,APP_002,23 Hillsborough Road,9,floor_plan,existing+proposed,ground,1:100,1,1,1,1,1,1,1,not_started
+WBH_010,APP_003,7 Belvedere Road,10,floor_plan,proposed,first+second,1:100,1,0,1,1,1,1,0,not_started
+WBH_011,APP_003,7 Belvedere Road,11,floor_plan,proposed,lower+ground,1:100,1,0,1,1,1,1,0,not_started
+WBH_012,APP_003,7 Belvedere Road,12,roof_plan,existing,roof,1:100,0,0,0,0,0,1,0,not_started
+WBH_013,APP_003,7 Belvedere Road,13,floor_plan,existing,first+second,1:100,1,0,1,1,1,1,0,not_started
+WBH_014,APP_003,7 Belvedere Road,14,floor_plan,existing,lower+ground,1:100,1,0,1,1,1,1,0,not_started
+WBH_015,APP_004,224 Bath Road,15,elevation,existing+proposed,all,1:50,0,0,1,1,1,1,1,not_started
+WBH_016,APP_004,224 Bath Road,16,section+elevation,existing+proposed,all,1:50,1,1,0,1,1,1,1,not_started
+WBH_017,APP_004,224 Bath Road,17,floor_plan,proposed,all,1:50,1,0,1,1,1,1,0,not_started
+WBH_018,APP_004,224 Bath Road,18,floor_plan,existing,all,1:50,1,0,1,1,1,1,0,not_started
