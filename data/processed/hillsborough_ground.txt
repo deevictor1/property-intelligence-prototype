@@ -1,0 +1,117 @@
+Boundary
+line
+
+Bedroom 2
+(10.24m?)
+
+Bedroom 1
+(10.0m?)
+
+Bedroom 8
+
+Communal
+Kitchen
+(24 4m?)
+
+Bedroom 3
+(10.3m?)
+
+= a
+
+Boundary
+line
+
+EXISTING GROUND FLOOR PLAN
+
+i T T T T 1
+0 1 2 3 4 5
+
+SCALE BAR IN (METERS)
+
+Boundary
+line
+
+[| En— En—
+suite suite
+Bedroom 2
+Bedroom 1 (10.24m2)
+(10.0m?)
+Bedroom 8
+(8.6m?)
+DN ce ll
+uP
+W.C
+SVP
+| |
+Bedroom 3 b3|
+(10.3m?) Proposed a> 42
+Bedroom 9 = Ig Proposed
+(13.4m?) - Sl Communal
+; ae Total (20.2m?)
+En |S
+[LN suite _
+
+[_] | |
+
+Wall A
+(1.61m?)
+
+Total Proposed
+Extension (24.05m?)
+
+Wall C
+(0.76m2)
+
+Wall B
+(1.48m2)
+
+Boundary
+line
+
+PROPOSED GROUND FLOOR PLAN
+
+i T T T T 1
+0 1 2 3 4 5
+
+SCALE BAR IN (METERS)
+
+CLIENT :
+
+DANBROWN
+
+| PRINT DATE 08/04/2025 |
+
+TISSUE DATE
+
+ARCHITECTURAL DRAWING
+
+T_ DRAWING REVISION #0 08/04/2025
+REVISION DATE
+
+PROJECT TITLE
+
+RESIDENCE
+
+23 HILLSBOROUGH ROAD,
+BRISLINGTON
+
+SCALE = 1:100
+
+1 DRAWING REVISION #0 08/04/2025
+
+PROJECT NO. 0001
+
+DRAWING TITLE
+
+EXISTING &
+PROPOSED GROUND
+FLOOR PLANS
+
+DRAWN BY
+QC CHECKED BY
+CA REVIEWED BY
+
+DRAWING NUMBER
+
+A003
+

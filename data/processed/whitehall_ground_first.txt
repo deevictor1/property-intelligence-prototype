@@ -1,0 +1,119 @@
+KEY
+
+((02)\ ((02)\ EXISTING SPACES
+N20 7 X201/ o1 Commercial
+
+7 V7 Entrance
+02 Sho
+03 Back of house
+04. WC
+Residential
+O06 Entrance
+O7 = Stair
+08 Hall
+09 Bathroom
+10 Kitchen
+
+11 Living space
+12 Bedroom
+
+Other
+16 Forecourt
+17 ~—«~ Parking space
+
+PROPOSED SPACES
+
+@2 33. Eront garden
+
+34 ~=—Ss Stair
+
+35 Hall
+
+36 Bathroom
+37 ~=Kitchen
+
+38 Living space
+
+fe) 39 Bedroom
+es |
+G a * 40 Cycle store
+41 Refuse store
+A ( _\ 42 Built-in storage
+3250 Y 2736 ) 43 Utility room
+ye 44 Study
+Paieeieisaiteiieiaieiaie 5 EXISTING FABRIC
+_ Proposed _
+| First Floor Residential Unit, Landscape
+| GIA = 51.7 sqm | 51 Cracked concrete surface
+
+52 Asphalt surface
+53 Dropped kerb
+
+Elevations
+
+55 Rendered boundary wall & timber trellis
+56 Stone masonry
+
+e 57 Rendered architrave / quoin
+
+58 Textured rendered wall / stallriser
+
+59 Brick masonry
+67) 60 Black uPVC rainwater goods
+61  uPVC-framed double-glazed window / door
+
+62 Aluminium-framed shopfront
+- 63 Security shutter metal housing
+proposed | 8 = 64 Metal signage
+| ae ; ocked up openin
+Ground Floor Residential Unit | 2 Se) 66 Concrete Por tile g
+G7) bo AE ses sqm N 67 Felt flat-roof
+68  Boarded door
+7 69 Concrete render
+70 ~~ Air-conditioning unit
+PROPOSED FABRIC
+@V Landscape
+4 New Pondet db d ll and i
+ew rendered boundary wall and copings
+to Ground (5) with painted metal railings and gate to side
+Elevations
+a 81 Rendered wall
+(5) 82 Tiled stallriser
+83 uPVC conservation-style window / door
+85  Period-style timber shopfront
+with aluminium-framed double-glazing
+] 86 Painted timber signage board
+87 Black cast-iron-style uPVC rainwater goods
+88 Concrete roof tile - to match existing
+89 Conservation-style Velux rooflight
+po J. al 90 Lead dormer cheeks / roof
+. [ . 91 Dark grey single-ply flat-roof membrane
+93 Painted timber door
+94 Painted render to match existing features
+
+| 95 Air-source heat pump
+\ 96 Gate
+
+97 ‘Trellis
+
+Ray, @V 4
+to Second
+
+Floor Unit
+
+@V
+to First
+
+Floor Unit ——— PF
+
+job REDFIELD aa
+
+drawing PROPOSED PLANS: GF + 1F PLANS
+
+status PLANNING
+
+scale 1:50 at Al 1100 at A3
+
+job nr. source drawing number revision
+(02)101.01 PROPOSED PLANS : GROUND FLOOR PLAN (02)101.02 PROPOSED PLANS : FIRST FLOOR PLAN AQ92 A (02)1 01 A
+
